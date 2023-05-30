@@ -1,3 +1,5 @@
+import keyboard 
+
 MAX_LINES = 3 
 def deposit():
     while(True):
